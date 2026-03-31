@@ -1,20 +1,14 @@
 🚀 DSA with Aisha
 
-Welcome to my Data Structures & Algorithms journey!
-In this repository, I solve DSA problems step-by-step with:
+Master Data Structures & Algorithms with clean explanations and logic! 
 
-- ✅ Brute Force Approach
-- ✅ Better Approach
-- ✅ Optimal Solution
-- ✅ Handling Test Cases
-- ✅ Clean JavaScript Code
 
----
+🌟 About This Repository
 
-🎥 YouTube Channel
-
-I explain each problem in detail on my YouTube channel.
-👉 https://www.youtube.com/@techdevSimplified-1
+This repository contains my DSA journey, where I solve problems step-by-step with clean approaches:
+✨ Brute Force → Better → Optimal
+✨ Easy and readable JavaScript solutions
+✨ Beginner-friendly explanations
 
 ---
 
@@ -27,11 +21,28 @@ I explain each problem in detail on my YouTube channel.
 
 ---
 
-🧠 How to Use This Repo
+🧠 Approach I Follow
+For every problem, I focus on:
+🔹 Understanding the problem deeply
+🔹 Starting with brute force
+🔹 Improving step-by-step
+🔹 Reaching optimal solution
+🔹 Writing clean code
+
+---
+
+🟠 How to Use This Repo
 
 - Each problem has its own file
 - Code is written in JavaScript
 - Explanation is added as comments inside the code
+- After understanding the logic which is explained in each file you can solve the question in any programming language you prefer
+
+---
+
+🤝 Connect With Me
+
+➡️ Instagram: https://www.instagram.com/aisha_shaikh.dev?igdh=MTE1cnA2dDVhczM2cA==&utm_source=ig_contacr-invite
 
 ---
 
@@ -43,13 +54,10 @@ I explain each problem in detail on my YouTube channel.
 
 ---
 
-⭐ Support
-
 If you find this helpful:
 
 - ⭐ Star the repository
-- 🔔 Subscribe to my YouTube channel
 
 ---
 
-«Keep learning. Keep building. 🚀»
+« Keep learning. Consistently is the key to mastering DSA 🚀»
