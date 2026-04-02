@@ -19,6 +19,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 1. Smallest Element in Array
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/smallest-element.js
 
+2. Second Largest Element in Array
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/second-largest-element.js
+
 ---
 
 🧠 Approach I Follow
@@ -60,4 +63,4 @@ If you find this helpful:
 
 ---
 
-« Keep learning. Consistently is the key to mastering DSA 🚀»
+« Keep learning. Consistency is the key to mastering DSA »
