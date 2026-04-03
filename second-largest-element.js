@@ -66,7 +66,7 @@ Test Cases:
 let arr1 = [3,7,9,2,-3];
 
 function findSecondLargest(arr1) {
-  if(arr1.length <= 1) {     // Handling test cases-1 and 2
+  if(arr1.length === 0) {     // Handling test case-1
     return arr1;
   }
 
@@ -90,7 +90,12 @@ function findSecondLargest(arr1) {
       secondLargest = arr1[j];
     }
   }
+
+  if(secondLargest === Infinity) {    //Handling text cases-2 and 3
+    return 'No second largest element present';
+  } else{
   return secondLargest;
+ }
 }
 
 /* Code for Optimized approach */
@@ -98,7 +103,7 @@ function findSecondLargest(arr1) {
 let arr2 = [3,7,9,2,-3];
 
 function findSecondLargest(arr2) {
-  if(arr2.length <= 1) {     // Handling test cases-1 and 2
+  if(arr2.length === 0) {     // Handling test case-1 
     return arr2;
   }
 
@@ -115,8 +120,8 @@ function findSecondLargest(arr2) {
       secondLargest = arr2[i];
     }
   }
-  if(secondLargest === -Infinity) {    //Handling test case-3
-    return 'Second largest element not found'
+  if(secondLargest === -Infinity) {    //Handling test cases-2 and 3
+    return 'Second largest element not found'  // Your return value for (if no second largest element present) can be anything
   } else{
     return secondLargest;
   }
