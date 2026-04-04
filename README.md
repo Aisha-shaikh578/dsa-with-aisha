@@ -22,8 +22,11 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 2. Second Largest Element in Array
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/second-largest-element.js
 
-2. Second Smallest Element in Array
+3. Second Smallest Element in Array
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/second-smallest-element.js
+
+4. Largest Element in Array
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/largest-element.js
 
 ---
 
