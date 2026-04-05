@@ -28,6 +28,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 4. Largest Element in Array
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/largest-element.js
 
+5. Check if array is sorted or not
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/check-sorted.js
+
 ---
 
 🧠 Approach I Follow
