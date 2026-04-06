@@ -31,6 +31,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 5. Check if array is sorted or not
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/check-sorted.js
 
+6. Remove duplicate elements in place from sorted array
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/remove-duplicates.js
+
 ---
 
 🧠 Approach I Follow
