@@ -34,6 +34,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 6. Remove duplicate elements in place from sorted array
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/remove-duplicates.js
 
+7. Right rotate elements by 1
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/right-rotate.js
+
 ---
 
 🧠 Approach I Follow
