@@ -1,6 +1,6 @@
 /*
 Question: Right rotate elements by 1.
-Link: 🔗 LeetCode – https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
+Link: 🔗 GeeksForGeeks – https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
 
 Approach: 
 1] Brute Force => Extra space => Time Complexity = O(n) / Space Complexity = O(n)
