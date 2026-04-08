@@ -37,6 +37,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 7. Right rotate elements by 1
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/right-rotate.js
 
+8. Right rotate elements by 1
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/rotate-k-steps.js
+
 ---
 
 🧠 Approach I Follow
