@@ -40,6 +40,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 8. Right rotate elements by 1
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/rotate-k-steps.js
 
+9. Move zeroes to the end
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/move-zero.js
+
 ---
 
 🧠 Approach I Follow
