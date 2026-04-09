@@ -1,6 +1,7 @@
 /*
 Question: Move zeros to the end of the array.
-Link: 🔗 LeetCode – 
+Link: 🔗 LeetCode – https://leetcode.com/problems/move-zeroes/description/
+Link: 🔗 GeeksForGeeks – https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1
 
 Approach: 
 1] Brute Force => Extra space for storing unique elements => Time Complexity = O(2n) / Space Complexity = O(1)
