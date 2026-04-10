@@ -43,6 +43,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 9. Move zeroes to the end
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/move-zero.js
 
+10. Linear search
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/linear-search.js
+
 ---
 
 🧠 Approach I Follow
