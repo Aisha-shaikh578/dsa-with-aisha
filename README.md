@@ -46,6 +46,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 10. Linear search
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/linear-search.js
 
+11. Union of two sorted arrays
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/union-of-two-arrays.js
+
 ---
 
 🧠 Approach I Follow
