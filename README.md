@@ -49,6 +49,8 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 11. Union of two sorted arrays
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/union-of-two-arrays.js
 
+12. Intersection of two sorted arrays
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/intersection-of-arrays.js
 ---
 
 🧠 Approach I Follow
