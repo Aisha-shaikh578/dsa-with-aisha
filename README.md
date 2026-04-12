@@ -51,6 +51,10 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 
 12. Intersection of two sorted arrays
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/intersection-of-arrays.js
+
+13. Find frequency of the number
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/find-frequency.js
+
 ---
 
 🧠 Approach I Follow
