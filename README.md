@@ -58,6 +58,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 14. Find frequency of all the elements of the array
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/frequency-mapping.js
 
+15. Find the missing element from the array. 
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/missing-elem.js
+
 ---
 
 🧠 Approach I Follow
