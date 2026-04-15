@@ -8,7 +8,7 @@ Approach:
 2] Better Approach => Using Hash => Time Complexity = O(n) / Space Complexity = O(n)
 3] Optimized Approach [There are two optimized approaches for this question] =>
   1] By subtracting the sum of elements present in the array from sum of n elements =>  Time Complexity = O(n) / Space Complexity = O(1)
-  2] XOR => 
+  2] XOR => Time Complexity = O(n) / Space Complexity = O(1)
 
 
 Explanation(Brute Approach):      
