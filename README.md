@@ -61,6 +61,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 15. Find the missing element from the array. 
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/missing-elem.js
 
+16. Find max consecutive ones
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/consecutive-ones.js
+
 ---
 
 🧠 Approach I Follow
