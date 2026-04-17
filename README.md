@@ -64,6 +64,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 16. Find max consecutive ones
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/consecutive-ones.js
 
+17. Find the number appearing once in the array. 
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/find-num-appearing-once.js
+
 ---
 
 🧠 Approach I Follow
