@@ -67,6 +67,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 17. Find the number appearing once in the array. 
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/find-num-appearing-once.js
 
+18. Find the longest subArray of the sum equal to K.
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/longest-subArray-sum.js
+
 ---
 
 🧠 Approach I Follow
