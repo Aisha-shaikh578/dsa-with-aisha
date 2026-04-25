@@ -70,6 +70,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 18. Find the longest subArray of the sum equal to K.
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/longest-subArray-sum.js
 
+19. Two sum.
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/Two-sum.js
+
 ---
 
 🧠 Approach I Follow
