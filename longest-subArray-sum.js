@@ -1,5 +1,5 @@
 /*
-Question: Find the number appearing once in the array. 
+Question: Find the longest subArray with sum equal to k. 
 Link: 🔗 LeetCode – https://leetcode.com/problems/subarray-sum-equals-k/description/
 
 Approach: 
