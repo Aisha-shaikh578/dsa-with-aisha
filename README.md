@@ -73,6 +73,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 19. Two sum.
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/Two-sum.js
 
+20. Sort an array of 0's, 1's and 2's.
+   🔗 Code: "https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/sort-0's-1's-2's.js"
+
 ---
 
 🧠 Approach I Follow
