@@ -76,6 +76,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 20. Sort an array of 0's, 1's and 2's.
    🔗 Code: "https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/sort-0's-1's-2's.js"
 
+21. Find majority element of the array.
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/majority-element.js
+
 ---
 
 🧠 Approach I Follow
