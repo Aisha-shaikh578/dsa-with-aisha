@@ -79,6 +79,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 21. Find majority element of the array.
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/majority-element.js
 
+22. Find the maximum sub-array sum.
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/max-subArray-sum.js
+
 ---
 
 🧠 Approach I Follow
