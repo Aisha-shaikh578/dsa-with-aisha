@@ -82,6 +82,8 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 22. Find the maximum sub-array sum.
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/max-subArray-sum.js
 
+23. Best Time to Buy and Sell Stock.
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/buy-sell-stocks.js
 ---
 
 🧠 Approach I Follow
