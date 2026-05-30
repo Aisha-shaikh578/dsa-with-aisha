@@ -87,6 +87,10 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 
 24. Rearrange array elements by sign.
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/rearrange-elems.js
+
+25. Next permutation.
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/next-permutation.js
+
 ---
 
 🧠 Approach I Follow
