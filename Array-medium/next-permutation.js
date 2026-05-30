@@ -23,7 +23,7 @@ Explanation(Optimal approach):
 -If our current element at i(index) is larger than the element present at the idx variable, then we will swap both the elements and break the loop. 
 -Finally, we will reverse the array from idx+1(break point) and return it. 
 
-Test Cases:
+Test Cases: 
 1] When no next permutation can be found
 */
 
