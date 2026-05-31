@@ -91,6 +91,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 25. Next permutation.
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/next-permutation.js
 
+26. Find the leaders in array.
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/array-leaders.js
+
 ---
 
 🧠 Approach I Follow
