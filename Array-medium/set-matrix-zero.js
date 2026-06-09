@@ -1,5 +1,5 @@
 /*
-Question: Sort an array of 0's, 1's and 2's
+Question: Set matriz zeroes
 Link: 🔗 LeetCode – https://leetcode.com/problems/set-matrix-zeroes/description/
 Link: 🔗 GeeksForGeeks – https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1
 Approach: 
