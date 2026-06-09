@@ -94,6 +94,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 26. Find the leaders in array.
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/array-leaders.js
 
+27. Set matrix zero
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/set-matrix-zero.js
+
 ---
 
 🧠 Approach I Follow
