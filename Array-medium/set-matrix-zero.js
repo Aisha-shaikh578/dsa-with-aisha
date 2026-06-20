@@ -1,5 +1,5 @@
 /*
-Question: Set matriz zeroes
+Question: Set matrix zeroes
 Link: 🔗 LeetCode – https://leetcode.com/problems/set-matrix-zeroes/description/
 Link: 🔗 GeeksForGeeks – https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1
 Approach: 
