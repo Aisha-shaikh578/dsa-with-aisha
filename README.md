@@ -100,6 +100,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 28. Rotate matrix by 90 degree
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/rotate-matrix.js
 
+29. Spial matrix
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/spiral-matrix.js
+
 ---
 
 🧠 Approach I Follow
