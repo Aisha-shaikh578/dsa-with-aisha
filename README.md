@@ -103,6 +103,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 29. Spial matrix
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/spiral-matrix.js
 
+30. Find the total subarrays with sum equal to k
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/total-subarrays-equal-to-k.js
+
 ---
 
 🧠 Approach I Follow
