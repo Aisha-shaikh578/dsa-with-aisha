@@ -106,6 +106,13 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 30. Find the total subarrays with sum equal to k
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/total-subarrays-equal-to-k.js
 
+--- 
+
+🟢 Strings
+
+1. Check if string is palindrome or not
+  🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/String/check-palindrome.js
+
 ---
 
 🧠 Approach I Follow
