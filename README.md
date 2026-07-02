@@ -106,6 +106,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 30. Find the total subarrays with sum equal to k
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/total-subarrays-equal-to-k.js
 
+31. Find the fibonacci number
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/find-fibonacci.js
+
 --- 
 
 🟢 Strings
@@ -136,7 +139,7 @@ For every problem, I focus on:
 
 🤝 Connect With Me
 
-➡️ Instagram: https://www.instagram.com/aisha_shaikh.dev?igdh=MTE1cnA2dDVhczM2cA==&utm_source=ig_contacr-invite
+➡️ Instagram: https://www.instagram.com/build.with.fun
 
 ---
 
