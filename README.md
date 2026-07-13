@@ -126,6 +126,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 2. Bubble Sort
   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Sorting-techniques/bubble-sort.js
 
+3. Insertion Sort
+  🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Sorting-techniques/insertion-sort.js
+
 ---
 
 🧠 Approach I Follow
