@@ -129,6 +129,9 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 3. Insertion Sort
   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Sorting-techniques/insertion-sort.js
 
+4. Merge Sort
+  🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Sorting-techniques/merge-sort.js
+
 ---
 
 🧠 Approach I Follow
