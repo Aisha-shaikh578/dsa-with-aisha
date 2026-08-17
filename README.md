@@ -109,6 +109,8 @@ This repository contains my DSA journey, where I solve problems step-by-step wit
 31. Find the fibonacci number
    🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/find-fibonacci.js
 
+32. Move Zeroes at the end
+   🔗 Code: https://github.com/Aisha-shaikh578/dsa-with-aisha/blob/main/Array-medium/move-zero.js
 --- 
 
 🟢 Strings
