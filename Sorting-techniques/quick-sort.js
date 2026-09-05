@@ -12,7 +12,7 @@ Link: 🔗 LeetCode – https://leetcode.com/problems/sort-an-array/description/
 # Average/Best case: O(logn)
 # Worst case: O(n)
 
-Explanation [Haore's Partition Method]:
+Explanation [Hoare's Partition Method]:
 -We can choose pivot as the first element, last element, or a random element. The choice of pivot can affect the performance of the algorithm, especially in cases where the input array is already sorted or nearly sorted.
 -In this method, we select the first element as the pivot and then use two pointers to partition the array into two halves. 
 -The left pointer moves from the start of the array towards the right, and the right pointer moves from the end of the array towards the left.
@@ -20,7 +20,7 @@ Explanation [Haore's Partition Method]:
 -This process continues until the pointers cross each other, at which point we recursively sort the two halves of the array.
 
 
-Explanation [Lamuto's Partition Method]:
+Explanation [Lomuto's Partition Method]:
 -We can choose pivot as the first element, last element, or a random element. The choice of pivot can affect the performance of the algorithm, especially in cases where the input array is already sorted or nearly sorted.
 -In this method, we select the last element as the pivot and then use a single pointer to partition the array into two halves.
 -The pointer keeps track of the position where the next smaller element than the pivot should be placed.
@@ -29,7 +29,7 @@ Explanation [Lamuto's Partition Method]:
 */
 
 
-/* Haore's Partition Method */
+/* Hoare's Partition Method */
 let arr = [3, 2, 4, 5, 1];
 
 function sort(arr, low, high) {
@@ -63,7 +63,7 @@ function sort(arr, low, high) {
 
 
 
-/* Lamuto's Partition Method */
+/* Lomuto's Partition Method */
 let arr = [3, 2, 4, 5, 1];
 
 function partition(arr, low, high) {
